@@ -12,7 +12,7 @@
   "license": "ISC",
   "devDependencies": {
     "eslint": "^7.22.0",
-    "jml-config": "^1.0.0-alpha.4"
+    "jml-config": "^1.0.0-alpha.5"
   },
   "eslintConfig": {
     "extends": [
